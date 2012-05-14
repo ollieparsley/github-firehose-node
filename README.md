@@ -28,3 +28,7 @@ A library that will connect to github and emit events from the Github Event API 
     
     //Start consuming
     firehose.start();
+
+## Events
+
+The events you can listen to with the `event` name are simply an object representing the data on http://developer.github.com/v3/events/
