@@ -1,0 +1,17 @@
+{
+	"name": "github-firehose",
+	"description": "Library that emits all public Github events in near-real-time",
+	"version": "0.0.1",
+	"author": "Ollie Parsley <ollie@hootware.com>",
+	"engines": [ "node >= 0.6.0" ],
+	"main": "github-firehose.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/hootware/github-firehose-node.git"
+	},
+	"keywords": [
+		"github",
+		"firehose",
+		"hootware"
+	]
+}
