@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/hootware/github-firehose-node.png)](http://travis-ci.org/hootware/github-firehose-node)
 #Github Firehose NodeJS library
 
 A library that will connect to github and emit events from the Github Event API in near-real-time
